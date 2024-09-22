@@ -21,20 +21,12 @@ This Python script utilizes computer vision to create an eye-tracking mouse cont
     ```bash
     pip install opencv-python mediapipe pyautogui
     ```
-
-2. Clone the repository:
-
-    ```bash
-    git clone https://github.com/rajiv2004-cloud/Eye-Control-Mouse.git
-    cd eye-control-mouse
-    ```
-
 ## Usage
 
 1. Run the script:
 
     ```bash
-    python eye_control_mouse.py
+    python Main.py
     ```
 
 2. Adjust the camera to have a clear view of your face.
